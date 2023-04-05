@@ -2,7 +2,7 @@
 #include <ctype.h>
 #include <stdlib.h>
 #include <string.h>
-#include "monty.h"
+#include "chijioke.h"
 
 /**
  * _mul - divides the next top value by the top value
