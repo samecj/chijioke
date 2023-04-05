@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "monty.h"
+#include "chijioke.h"
 
 /**
  * pstr - prints the contents of a stack_t stack as a string
