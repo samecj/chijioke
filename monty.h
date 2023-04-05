@@ -1,5 +1,5 @@
-#ifndef MONTY_H
-#define MONTY_H
+#ifndef CHIJIOKE_H
+#define CHIJIOKE_H
 
 #include <stddef.h>
 #include <stdlib.h>
