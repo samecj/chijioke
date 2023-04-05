@@ -1,5 +1,5 @@
 #include <ctype.h>
-#include "monty.h"
+#include "chijioke.h"
 
 /**
  * is_digit - checks if a string is a digit
