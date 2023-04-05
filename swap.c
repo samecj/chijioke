@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "monty.h"
+#include "chijioke.h"
 
 /**
  * swap -  swaps data from top to previous
